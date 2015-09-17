@@ -5,3 +5,23 @@ This is a repository of python code for the Lamont-Doherty Earth Observatory (LD
 Please feel free to contribute to this repository. As we are all learning, please be sure to include comments within your code. 
 
 Thanks!
+
+
+# Class info
+
+
+
+# Class Schedule
+
+Date     | Activity              | Instructor
+------   | --------				 |
+9-23-15  | Intro to 1-D plotting | Elizabeth Ferriss
+9-30-15  | Intro to 2-D plotting | Takaya Uchida 
+10-7-15  | Github intro			     | Ryan Abernathey
+10-14-15 | 
+10-21-15 | 
+11-4-15  | 
+11-11-15 | 
+
+
+# Online Resources
