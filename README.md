@@ -15,7 +15,7 @@ Wednesdays 10-11am, 1st Floor Seismology Conference oom
 
 Date      | Activity              | Instructor
 
-------    | --------              |
+------    | --------              | --------
 
 9-23-15   | Intro to 1-D plotting | Elizabeth Ferriss
 
