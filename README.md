@@ -8,7 +8,7 @@ Thanks!
 
 
 # Class info
-Wednesdays 10-11am, 1st Floor Seismology Conference oom
+Wednesdays 10-11am, 1st Floor Seismology Conference Room
 
 
 # Class Schedule
